@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="1500.0001"
+   viewBox="0 0 396.875 396.87503"
+   version="1.1"
+   id="svg171"
+   sodipodi:docname="logo-sp.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview173"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:zoom="0.3901936"
+     inkscape:cx="691.96419"
+     inkscape:cy="885.45789"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs168" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect197"
+       style="fill:#000000;stroke-width:1.00157"
+       d="M 200 0 L 200 100 L 200 700 L 300 700 L 300 100 L 700 100 L 700 0 L 300 0 L 200 0 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#000000;stroke-width:0.264999"
+       id="rect197-9"
+       width="26.458334"
+       height="185.20833"
+       x="185.20834"
+       y="0" />
+    <rect
+       style="fill:#000000;stroke-width:0.264999"
+       id="rect197-1"
+       width="26.458334"
+       height="185.20833"
+       x="185.20831"
+       y="211.66667" />
+    <path
+       id="rect197-9-1"
+       style="fill:#000000;stroke-width:1.00157"
+       d="M 1200 800 L 1200 1400 L 800 1400 L 800 1500 L 1200 1500 L 1300 1500 L 1300 1400 L 1300 800 L 1200 800 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect197-5"
+       style="fill:#000000;stroke-width:1.00157"
+       d="M 800 200 L 800 300 L 1400 300 L 1400 700 L 1500 700 L 1500 300 L 1500 200 L 1400 200 L 800 200 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#000000;stroke-width:0.264999"
+       id="rect197-9-3"
+       width="26.458334"
+       height="185.20833"
+       x="185.20834"
+       y="-396.875"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;stroke-width:0.264999"
+       id="rect197-5-3"
+       width="26.458334"
+       height="185.20833"
+       x="185.20834"
+       y="-185.2083"
+       transform="rotate(90)" />
+    <path
+       id="rect197-9-3-3"
+       style="fill:#000000;stroke-width:1.00157"
+       d="M 0 800 L 0 1200 L 0 1300 L 100 1300 L 700 1300 L 700 1200 L 100 1200 L 100 800 L 0 800 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#000000;stroke-width:0.264999"
+       id="rect670"
+       width="26.458334"
+       height="26.458334"
+       x="185.20831"
+       y="185.20834" />
+  </g>
+</svg>
